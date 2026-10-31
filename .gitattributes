@@ -1,0 +1,13 @@
+# Detect text files and normalize their contents in Git.
+* text=auto
+
+# Keep source, documentation, and repository configuration consistent.
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.code-snippets text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+LICENSE text eol=lf

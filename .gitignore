@@ -1,0 +1,52 @@
+# Compiled programs, objects, and libraries
+*.exe
+*.out
+a.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Build output and generated build files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+Debug/
+Release/
+x64/
+x86/
+
+# Debug, coverage, and profiling files
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+*.dSYM/
+
+# Local editor and operating-system files
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep lesson sources, .code-snippets, and sample .txt files tracked.
